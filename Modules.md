@@ -36,16 +36,16 @@ Description - some basic information about the module
 
 | Name                  | Version          | TNE Version      | Author            | Description                                                                             |
 |-----------------------|------------------|------------------|-------------------|-----------------------------------------------------------------------------------------| 
-| Auctions              | 0.1              | 0.0.5.6+         | creatorfromhell   | Adds an auction system for players to auction off their unwanted items                  |
-| Banks                 | 0.1              | 0.0.5.6+         | creatorfromhell   | Adds a banking system for players to store away their funds with ease-of-mind           |
-| Credits               | 0.1              | 0.0.5.6+         | creatorfromhell   | Adds a credits system for charging players for command, and inventory access            |
-| Loans                 | 0.1              | 0.0.6.0+         | creatorfromhell   | Adds the ability for players to give loans, or take loans from the server account       |
-| Lotteries             | 0.1              | 0.0.6.0+         | creatorfromhell   | Adds a lottery system for world, or server-wide lottery support                         |
-| Market                | 0.1              | 0.0.5.6+         | creatorfromhell   | Adds a global market system for players to sell & buy items from other players          |
-| Mobs                  | 0.1              | 0.0.5.6+         | creatorfromhell   | Adds a mob reward system for players to earn money rewards for killing mobs             |
-| Multiplier            | 0.1              | 0.0.5.6+         | creatorfromhell   | Adds the ability to apply a multiplier for certain players to every transaction.        |
-| Plots                 | 0.1              | 0.0.6.0+         | KarateMan         | Adds in-game plots that may be bought & sold between players                            | 
-| Raffle                | 0.1              | 0.0.6.0+         | creatorfromhell   | Adds the ability to raffle off items.                                                   |
-| Rewards               | 0.1              | 0.0.5.6+         | creatorfromhell   | Grants server owners the ability to reward players for basics such as mining & crafting |
-| Signs                 | 0.1              | 0.0.5.6+         | creatorfromhell   | Adds various signs that provide various features such as sign shops                     |
-| Vaults                | 0.1              | 0.0.5.6+         | creatorfromhell   | Adds a storage system for players to store away their items with ease-of-mind           |  
+| Auctions              | 0.1              | 0.1.1.0+         | creatorfromhell   | Adds an auction system for players to auction off their unwanted items                  |
+| Banks                 | 0.1              | 0.1.1.0+         | creatorfromhell   | Adds a banking system for players to store away their funds with ease-of-mind           |
+| Credits               | 0.1              | 0.1.1.0+         | creatorfromhell   | Adds a credits system for charging players for command, and inventory access            |
+| Loans                 | 0.1              | 0.1.1.0+         | creatorfromhell   | Adds the ability for players to give loans, or take loans from the server account       |
+| Lotteries             | 0.1              | 0.1.1.0+         | creatorfromhell   | Adds a lottery system for world, or server-wide lottery support                         |
+| Market                | 0.1              | 0.1.1.0+        | creatorfromhell   | Adds a global market system for players to sell & buy items from other players          |
+| Mobs                  | 0.1              | 0.1.0.0+         | creatorfromhell   | Adds a mob reward system for players to earn money rewards for killing mobs             |
+| Multiplier            | 0.1              | 0.1.1.0+          | creatorfromhell   | Adds the ability to apply a multiplier for certain players to every transaction.        |
+| Plots                 | 0.1              | 0.1.1.0+         | KarateMan         | Adds in-game plots that may be bought & sold between players                            | 
+| Raffle                | 0.1              | 0.1.1.0+          | creatorfromhell   | Adds the ability to raffle off items.                                                   |
+| Rewards               | 0.1              | 0.1.0.0+         | creatorfromhell   | Grants server owners the ability to reward players for basics such as mining & crafting |
+| Signs                 | 0.1              | 0.1.1.0+          | creatorfromhell   | Adds various signs that provide various features such as sign shops                     |
+| Vaults                | 0.1              | 0.1.1.0+         | creatorfromhell   | Adds a storage system for players to store away their items with ease-of-mind           |  

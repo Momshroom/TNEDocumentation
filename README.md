@@ -21,10 +21,10 @@ For the configuration portion of this, I'll be referring you to the [Configurati
 ### Now What?
 From here, you have an incredible amount of control over your server's new economy. With TNE you're able to control almost 
 every detail for each feature. Make sure to check out these pages to properly interact with your new economy:
-* [Commands](Soon.md)
-* [Permissions](Soon.md)
+* [Commands](Commands.md)
+* [Permissions](Permissions.md)
 * [Currency System](Soon.md)
-* [Module System](Soon.md)
+* [Module System](Modules.md)
 * [Language System](Soon.md)
 
 If you're a developer these pages may interest you too:
