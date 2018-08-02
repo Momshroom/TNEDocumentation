@@ -19,14 +19,14 @@ Commands provided in the core TNE Jar(tne.jar).
 | tne build | tne.admin.build | Displays the version of TNE currently running. |
 | tne caveats | tne.admin.caveats | Displays all known caveats for this version of TNE. |
 | tne create \<player\> [balance] | tne.admin.create | Creates a new economy account. Player ~ The account owner. Balance ~ The starting balance of the account. |
-| tne delete \<playe\r> | tne.admin.delete | Deletes a player account. Player ~ The account owner. |
+| tne delete \<player\> | tne.admin.delete | Deletes a player account. Player ~ The account owner. |
 | tne extract | tne.admin.extract | Extracts all player balances with their username attached for database related debugging. |
 | tne id \<player\> | tne.admin.id | Retrieves a player's TNE UUID. Player ~ The player you wish to discover the UUID of. |
 | tne menu \<player\> | tne.admin.menu | Opens a GUI for performing basic transactions on the specified player. Player ~ The name/uuid of the player you wish to perform transactions with in the GUI. |
 | tne purge | tne.admin.purge | Deletes all player accounts that have the default balance |
 | tne recreate | tne.admin.recreate | Attempts to recreate database tables. WARNING: This will delete all data in the database. |
 | tne reload <configuration> | tne.admin.reload | Saves modifications made via command, and reloads a configuration file. Configuration ~ The identifier of the configuration to reload. Default is all. |
-| tne report \<repor\t> | tne.admin.report | File a bug report. Report ~ The link to the pastebin with the bug report, use the following format: https://github.com/TheNewEconomy/TNE-Bukkit/blob/master/Report%20Format.md. |
+| tne report \<report\> | tne.admin.report | File a bug report. Report ~ The link to the pastebin with the bug report, use the following format: https://github.com/TheNewEconomy/TNE-Bukkit/blob/master/Report%20Format.md. |
 | tne reset | tne.admin.reset | Deletes all economy-related data from the database. |
 | tne restore | tne.admin.restore | Restores all balances that are located in extracted.yml after performing the extract command. |
 | tne save | tne.admin.save | Force saves all TNE data. |
